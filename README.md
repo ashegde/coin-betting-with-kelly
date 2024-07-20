@@ -11,3 +11,6 @@ Haghani, Victor, and Richard Dewey. "Rational decision-making under uncertainty:
 Naturally, the original reference for Kelly's work is:
 
 Kelly, John L. "A new interpretation of information rate." The Bell System Technical Journal 35.4 (1956): 917-926.
+
+
+![gambling_strategies](https://github.com/user-attachments/assets/db999788-45f6-457e-819e-1cdd4a865e66)
